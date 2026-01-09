@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Muhammad Faisal 
-### Engineer | Let's build something together
+### Let's build something together
 
 <!-- Social Icons Row -->
 <a href="https://www.linkedin.com/in/muhammadfaisal19/">
@@ -24,8 +24,6 @@
 </a>
 
 <br><br>
-
-📍 **Gurugram, Haryana, India**
 
 *"Excited to learn, contribute, and collaborate on engineering projects that drive meaningful impact."*
 
