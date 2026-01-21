@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Muhammad Faisal 
-### Let's build something together
+### “Open to collaboration — let’s build something together.”
 
 <!-- Social Icons Row -->
 <a href="https://www.linkedin.com/in/muhammadfaisal19/">
@@ -52,7 +52,6 @@
     <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&vCenter=true&color=2CFF00&size=75&pause=750&width=3000&height=80&lines=I+am+always+open+to+collaborating+on+projects+and+innovative+ideas."/> </a>
 </p>
 
-[![FAANG](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation#readme)
 
 
 
