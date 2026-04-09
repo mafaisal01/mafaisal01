@@ -1,27 +1,10 @@
 <div align="center">
 
-#  Muhammad Faisal 
+#  Faisal 
 ### “Open to collaboration — let’s build something together.”
 
 <!-- Social Icons Row -->
-<a href="https://www.linkedin.com/in/muhammadfaisal19/">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/linkedin.png" width="32" height="32">
-</a>
-<a href="https://github.com/muhammadfaisal19">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/github.png" width="32" height="32">
-</a>
-<a href="https://x.com/your_username">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/x.png" width="32" height="32">
-</a>
-<a href="https://discord.com/users/your_user_id">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/discord.png" width="32" height="32">
-</a>
-<a href="mailto:your_email@gmail.com">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/gmail.png" width="32" height="32">
-</a>
-<a href="https://google.com">
-  <img src="https://github.com/muhammadfaisal19/muhammadfaisal19/blob/main/assets-icon/google.png" width="32" height="32">
-</a>
+
 
 <br><br>
 
