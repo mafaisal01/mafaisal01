@@ -3,6 +3,9 @@
 #  Faisal 
 ### “Open to collaboration — let’s build something together.”
 
+<img width="1128" height="191" alt="fullstackai_cover" src="https://github.com/user-attachments/assets/a74f8b61-f88d-43f3-9381-a2411060a660" />
+
+
 <!-- Social Icons Row -->
 
 
